@@ -12,7 +12,7 @@ git clone git@github.com:LeRandomJess/so_long.git
 #### 2º - Enter the project folder so_long or so_long_bonus and run `make`
 > **Important:** To run the program, you need to download the MiniLibX, name it "mlx" and place the folder inside the project folder.
 ```bash
-cd so_long/so_long or cd so_long_bonus
+cd so_long or cd so_long_bonus
 make
 ```
 

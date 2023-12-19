@@ -1,7 +1,7 @@
 # so_long
-##Project from 42 school
+## Project from 42 school
 
-#"It Sucks"
+# "It Sucks"
 A simple 2D game where a vacuum collects dust while avoiding the cat. Once all dust is collected, it should return to its charging station to finish the game.
 
 ## HOW TO USE

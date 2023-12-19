@@ -4,10 +4,10 @@ Project from 42 school
 ## HOW TO USE
 #### 1º - Clone the repository
 ```bash
-git clone git@github.com:
+git clone git@github.com:LeRandomJess/so_long.git
 ```
-#### 2º - Enter the project folder and run `make` or `make bonus`
-> **Important:** To run the program, you need to download the MiniLibX.
+#### 2º - Enter the project folder so_long or so_long_bonus and run `make`
+> **Important:** To run the program, you need to download the MiniLibX, name it "mlx" and place the folder inside the project folder.
 ```bash
 cd so_long/so_long or cd so_long_bonus
 make
